@@ -13,5 +13,6 @@ In this project we use Jasmine to test application. Here is a list what is teste
 Simply take app.js and change it. For example, change the array allFeeds and see the outcome of the tests.
 
 ## How to run it
-Download the repository. Open the HTML, edit the app.js.
-
+1. Download zip or clone the repository.
+2. Open index.html
+3. If you want, change app.js or edit feedreader.js to write your own tests
